@@ -1,0 +1,17 @@
+
+Deployment Image Servicing and Management tool
+Version: 10.0.22621.1
+
+Details for image : d:\sources\boot.wim
+
+Index : 1
+Name : Microsoft Windows PE (amd64)
+Description : Microsoft Windows PE (amd64)
+Size : 2,098,882,705 bytes
+
+Index : 2
+Name : Microsoft Windows Setup (amd64)
+Description : Microsoft Windows Setup (amd64)
+Size : 2,201,885,796 bytes
+
+The operation completed successfully.
